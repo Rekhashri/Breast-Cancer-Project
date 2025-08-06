@@ -24,5 +24,4 @@ It includes **data preprocessing, normalization, training, and performance evalu
 
 ---
 
-## 📂 Project Structure
 
